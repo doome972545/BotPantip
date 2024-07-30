@@ -6,9 +6,9 @@ $ pip install google-generativeai
 import random
 
 api = [
-    "AIzaSyAI_JokMlA3uq4sUpYjWENVY7EKKyfgNs8",
-    "AIzaSyBy0PUlN3oWDivnMn9pGqxCJolPPP2Sp0U",
-    "AIzaSyCeckwAPPPJsDhIGFgE5EB9MsOlf25x3k4"
+    "Google gemini Api", #api 
+    "",
+    ""
 ]
 import google.generativeai as genai
 def apiGemini(text):

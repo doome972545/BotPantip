@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import Keys
 import getpass
 from selenium.webdriver.common.action_chains import ActionChains
 import re
-from main6 import apiGemini
+from Api import apiGemini
 
 options = webdriver.ChromeOptions()
 options.add_experimental_option('detach', True)
